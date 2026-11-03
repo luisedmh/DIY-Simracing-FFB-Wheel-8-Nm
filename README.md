@@ -53,9 +53,3 @@ All structural and aesthetic parts were 3D modeled and manufactured using **FDM 
 | <img src="./Gallery/Wheel/IMG_8589.jpeg" width="400" alt="Front View"> | <img src="./Gallery/Wheel/IMG_8595.jpg" width="400" alt="Internal Mechanism"> |
 
 ---
-
-## Skills Demonstrated in this Project
-* **Embedded Systems:** Microcontroller programming and custom USB HID configuration.
-* **Power Electronics:** DC motor control using PWM signals and high-current driver stages.
-* **Mechanical Engineering & Design:** 3D modeling, mechanical tolerances, and additive manufacturing.
-* **Problem Solving:** Tuning control loops to match real-time physics engine telemetry.
